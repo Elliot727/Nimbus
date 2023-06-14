@@ -23,3 +23,8 @@ To use the OpenWeatherMap API, you'll need to obtain an API key. Follow these st
 2. Generate an API key from your account settings.
 3. Copy the API key and open the `WeatherManager.swift` file in the project.
 4. Replace the value of `apiKey` with your generated API key.
+
+# Video demo of the app working
+
+https://github.com/Elliot727/Nimbus/assets/39097740/1d8a61bb-f0c3-4acc-8708-282443db6f41
+
